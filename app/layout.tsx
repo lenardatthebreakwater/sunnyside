@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   description: "Transform your brand with our full-service creative agency",
   generator: "v0.dev",
   icons: {
-    icon: "/favicon-32x32.png",
+    icon: "/images/favicon-32x32.png",
   },
 }
 
