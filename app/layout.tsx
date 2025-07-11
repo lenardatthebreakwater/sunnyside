@@ -18,7 +18,6 @@ const fraunces = Fraunces({
 export const metadata: Metadata = {
   title: "Sunnyside Agency - We Are Creatives",
   description: "Transform your brand with our full-service creative agency",
-  generator: "v0.dev",
   icons: {
     icon: "/icons/favicon.svg",
   },
